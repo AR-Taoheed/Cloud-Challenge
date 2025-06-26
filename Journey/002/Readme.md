@@ -1,7 +1,6 @@
-**Add a cover photo like:**
 ![placeholder image](https://lh3.googleusercontent.com/dXbTB3njhAshqT_UI3JMAbw0Hoek_V0R-tKzVM0p0HhVKUqd9SXRMa9Gn7lbwQYeZobxyGKqJV4i=e14-rw-lo-sc0xffffff-w300)
 
-# New post title here
+# Setting Up Cloud Infrastructure
 
 ## Introduction
 
