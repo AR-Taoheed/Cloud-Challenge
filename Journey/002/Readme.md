@@ -32,4 +32,4 @@ I would build a project on this tomorrow to test my knowledge
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](https://x.com/ARTaoheed/status/1938358877017235489)
+[link](https://x.com/artaoheed/status/1938358877017235489)
