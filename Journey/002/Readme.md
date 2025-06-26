@@ -29,6 +29,6 @@ I would build a project on this tomorrow to test my knowledge
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+Here is my post on X
 
-[link](https://x.com/artaoheed/status/1938358877017235489)
+[link to post](https://x.com/artaoheed/status/1938358877017235489)
